@@ -5,7 +5,11 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.TreeSet;
-
+/**
+ * 版本2.0
+ * 
+ * @author Administrator
+ */
 public class PlayingCard2_0 {
 	public static void main(String[] args) {
 		// 创建HashMap集合
